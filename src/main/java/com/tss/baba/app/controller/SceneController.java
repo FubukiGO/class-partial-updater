@@ -1,4 +1,4 @@
-package Contorller;
+package com.tss.baba.app.controller;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -11,7 +11,7 @@ public class SceneController {
 
     @FXML
     void testAction(ActionEvent event) {
-        System.out.println("µã»÷ÁËÒ»ÏÂQAQ");
+        System.out.println("ï¿½ï¿½ï¿½ï¿½ï¿½Ò»ï¿½ï¿½QAQ");
 
     }
 
